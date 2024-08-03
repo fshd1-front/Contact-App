@@ -1,0 +1,6 @@
+installing react lib => 
+1. npm create vite@latesst
+2. .
+3. npm install
+4. vite.config.js bottom of plugins => server: {port:3000}
+5. npm run dev
